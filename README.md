@@ -1,2 +1,2 @@
 # news-classification
-Classification model trained on news dataset
+SVM classification model trained on news dataset from Kaggle
